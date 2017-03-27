@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrazyRoad", "CrazyRoad\CrazyRoad\CrazyRoad.csproj", "{E5C5A4E5-2C48-4104-BE67-AE51EF798D1A}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "CrazyRoadContent", "CrazyRoad\CrazyRoadContent\CrazyRoadContent.contentproj", "{8B3C7AEA-DAE0-46F3-93FF-01B084C4996F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5C5A4E5-2C48-4104-BE67-AE51EF798D1A}.Debug|x86.ActiveCfg = Debug|x86
+		{E5C5A4E5-2C48-4104-BE67-AE51EF798D1A}.Debug|x86.Build.0 = Debug|x86
+		{E5C5A4E5-2C48-4104-BE67-AE51EF798D1A}.Release|x86.ActiveCfg = Release|x86
+		{E5C5A4E5-2C48-4104-BE67-AE51EF798D1A}.Release|x86.Build.0 = Release|x86
+		{8B3C7AEA-DAE0-46F3-93FF-01B084C4996F}.Debug|x86.ActiveCfg = Debug|x86
+		{8B3C7AEA-DAE0-46F3-93FF-01B084C4996F}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
